@@ -23,11 +23,11 @@ List and briefly describe the main projects or tasks included in the repository.
 
 1. **Project 1: [0x00-python-hello_world]**
    - Description: [This directory serves as an introduction to Python programming and covers fundamental concepts. It includes scripts and programs demonstrating basic Python functionality, such as printing, string manipulation, and file operations.]
-   - Link: [Link to the project directory or main file]
+   - Link: [0x00-python-hello_world]
 
-2. **Project 2: [Project Name]**
-   - Description: [This directory serves as an introduction to Python programming and covers fundamental concepts. It includes scripts and programs demonstrating basic Python functionality, such as printing, string manipulation, and file operations.]
-   - Link: [Link to the project directory or main file]
+2. **Project 2: [0x01-python-if_else_loops_functions]**
+   - Description: [This directory contains Python scripts and a C source code file authored by Engr Precious. These scripts and source code files cover topics related to if-else statements, loops, and functions in Python.]
+   - Link: [0x01-python-if_else_loops_functions]
 
 ## Installation
 
