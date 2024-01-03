@@ -24,7 +24,7 @@ List and briefly describe the main projects or tasks included in the repository.
 1. **Project 1: [0x00-python-hello_world]**
 
    - Description: [This directory serves as an introduction to Python programming and covers fundamental concepts. It includes scripts and programs demonstrating basic Python functionality, such as printing, string manipulation, and file operations.]
-   - Link: [#0x00-python-hello_world](#https://github.com/preshengr/alx-higher_level_programming/tree/6511b10d72264dd6b3645a057e9aab5433d6f5d0/0x00-python-hello_world)
+   - Link: [0x00-python-hello_world](#https://github.com/preshengr/alx-higher_level_programming/tree/6511b10d72264dd6b3645a057e9aab5433d6f5d0/0x00-python-hello_world)
 
 2. **Project 2: [0x01-python-if_else_loops_functions]**
    - Description: [This directory contains Python scripts and a C source code file authored by Engr Precious. These scripts and source code files cover topics related to if-else statements, loops, and functions in Python.]
