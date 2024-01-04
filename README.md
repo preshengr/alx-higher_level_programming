@@ -27,8 +27,13 @@ List and briefly describe the main projects or tasks included in the repository.
    - Link: [0x00-python-hello_world](#https://github.com/preshengr/alx-higher_level_programming/tree/6511b10d72264dd6b3645a057e9aab5433d6f5d0/0x00-python-hello_world)
 
 2. **Project 2: [0x01-python-if_else_loops_functions]**
+
    - Description: [This directory contains Python scripts and a C source code file authored by Engr Precious. These scripts and source code files cover topics related to if-else statements, loops, and functions in Python.]
    - Link: [0x01-python-if_else_loops_functions](#https://github.com/preshengr/alx-higher_level_programming/tree/6511b10d72264dd6b3645a057e9aab5433d6f5d0/0x01-python-if_else_loops_functions)
+
+3. **Project 3: [0x02-python-import_modules]**
+   - Description: [This directory contains Python scripts related to import modules and various exercises]
+   - Link: [0x02-python-import_modules](https://github.com/preshengr/alx-higher_level_programming/tree/0b3016fd03ced419e51b363b9a5984c59d682d81/0x02-python-import_modules)
 
 ## Installation
 
