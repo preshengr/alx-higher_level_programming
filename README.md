@@ -21,19 +21,24 @@ This repository is a collection of projects and exercises related to higher-leve
 
 List and briefly describe the main projects or tasks included in the repository. Include links to relevant files or directories.
 
-1. **Project 1: [0x00-python-hello_world]**
+0. **Project 0: [0x00-python-hello_world]**
 
    - Description: [This directory serves as an introduction to Python programming and covers fundamental concepts. It includes scripts and programs demonstrating basic Python functionality, such as printing, string manipulation, and file operations.]
    - Link: [0x00-python-hello_world](#https://github.com/preshengr/alx-higher_level_programming/tree/6511b10d72264dd6b3645a057e9aab5433d6f5d0/0x00-python-hello_world)
 
-2. **Project 2: [0x01-python-if_else_loops_functions]**
+1. **Project 1: [0x01-python-if_else_loops_functions]**
 
    - Description: [This directory contains Python scripts and a C source code file authored by Engr Precious. These scripts and source code files cover topics related to if-else statements, loops, and functions in Python.]
    - Link: [0x01-python-if_else_loops_functions](#https://github.com/preshengr/alx-higher_level_programming/tree/6511b10d72264dd6b3645a057e9aab5433d6f5d0/0x01-python-if_else_loops_functions)
 
-3. **Project 3: [0x02-python-import_modules]**
+2. **Project 2: [0x02-python-import_modules]**
    - Description: [This directory contains Python scripts related to import modules and various exercises]
    - Link: [0x02-python-import_modules](https://github.com/preshengr/alx-higher_level_programming/tree/0b3016fd03ced419e51b363b9a5984c59d682d81/0x02-python-import_modules)
+
+3. **Project 3: [0x03-python-data_structures]**
+   - Description: [This directory contains Python programs and C files related to data structures in Python]
+   - Link: [0x03-python-data_structures](https://github.com/preshengr/alx-higher_level_programming/tree/98cb56a738009216616dcc1df650929c5113b0e7/0x03-python-data_structures)
+
 
 ## Installation
 
