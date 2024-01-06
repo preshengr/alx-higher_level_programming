@@ -4,11 +4,7 @@ This directory contains Python programs and C files related to data structures i
 
 ## Files
 
-- `0-main.py`: Main file for testing the function in `0-print_list_integer.py`.
-
 - `0-print_list_integer.py`: Python script that prints all integers of a list.
-
-- `1-main.py`: Main file for testing the function in `1-element_at.py`.
 
 - `1-element_at.py`: Python script that retrieves an element from a list at a specific position.
 
