@@ -43,6 +43,13 @@ List and briefly describe the main projects or tasks included in the repository.
    - Description: [This directory contains Python scripts that explore and demonstrate various concepts related to more advanced data structures and operations. Each script focuses on different aspects of manipulating data structures in Python.]
    - Link: [0x04-python-more_data_structures](https://github.com/preshengr/alx-higher_level_programming/tree/49c7ea0bd79641e5f1be5f86ea8845198904d768/0x04-python-more_data_structures)
 
+ **Project 5: [0x05-python-exceptions]**
+   - Description: [This directory contains Python scripts that demonstrate the use of exception handling in Python. Each script focuses on different aspects of exception handling, showcasing how to handle errors and unexpected behavior in Python programs.]
+   - Link: [0x05-python-exceptions](https://github.com/preshengr/alx-higher_level_programming/tree/49c7ea0bd79641e5f1be5f86ea8845198904d768/0x05-python-exceptions)
+
+**Nth Project: [The Last Project for this Repo]**
+   - Description: [This shows that the projects in this repo is as long as the last project that will be seen when you enter this repo.]
+   - Link: [Nth Project on this Repo as outlined on the page.](https://github.com/preshengr/alx-higher_level_programming)
 
 ## Installation
 
