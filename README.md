@@ -39,6 +39,10 @@ List and briefly describe the main projects or tasks included in the repository.
    - Description: [This directory contains Python programs and C files related to data structures in Python]
    - Link: [0x03-python-data_structures](https://github.com/preshengr/alx-higher_level_programming/tree/98cb56a738009216616dcc1df650929c5113b0e7/0x03-python-data_structures)
 
+4. **Project 4: [0x04-python-more_data_structures]**
+   - Description: [This directory contains Python scripts that explore and demonstrate various concepts related to more advanced data structures and operations. Each script focuses on different aspects of manipulating data structures in Python.]
+   - Link: [0x04-python-more_data_structures](https://github.com/preshengr/alx-higher_level_programming/tree/49c7ea0bd79641e5f1be5f86ea8845198904d768/0x04-python-more_data_structures)
+
 
 ## Installation
 
