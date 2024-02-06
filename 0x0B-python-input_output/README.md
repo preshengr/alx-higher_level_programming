@@ -1,33 +1,37 @@
-# 0x0A-python-inheritance
+# 0x0B Python - Input/Output
 
-This directory contains Python scripts related to inheritance concepts in Python.
+This repository contains Python scripts that demonstrate various input/output operations in Python, including file handling, JSON serialization/deserialization, and more.
 
-## Files:
+## Files
 
-1. **0-lookup.py** - A Python script that returns the list of available attributes and methods of an object.
+1. **0-read_file.py**: Python script that reads a text file (`UTF8`) and prints its content to stdout.
 
-2. **1-my_list.py** - A Python class `MyList` that inherits from `list`.
+2. **1-write_file.py**: Python script that writes a string to a text file (`UTF8`) and returns the number of characters written.
 
-3. **10-square.py** - A Python class `Square` that inherits from `Rectangle` (from `9-rectangle.py`).
+3. **2-append_write.py**: Python script that appends a string at the end of a text file (`UTF8`) and returns the number of characters added.
 
-4. **100-my_int.py** - A Python class `MyInt` that inherits from `int` and flips the `==` and `!=` operators.
+4. **3-to_json_string.py**: Python function that returns the JSON representation of an object (string).
 
-5. **101-add_attribute.py** - A Python script that adds a new attribute to an object if it’s possible.
+5. **4-from_json_string.py**: Python function that returns an object (Python data structure) represented by a JSON string.
 
-6. **11-square.py** - A Python class `Square` that inherits from `Rectangle` (from `8-rectangle.py`). (Task with method overriding)
+6. **5-save_to_json_file.py**: Python function that writes an object to a text file using JSON representation.
 
-7. **2-is_same_class.py** - A Python function `is_same_class(obj, a_class)` that returns `True` if the object is exactly an instance of the specified class; otherwise `False`.
+7. **6-load_from_json_file.py**: Python function that creates an object from a JSON file.
 
-8. **3-is_kind_of_class.py** - A Python function `is_kind_of_class(obj, a_class)` that returns `True` if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class; otherwise `False`.
+8. **7-add_item.py**: Python script that adds all arguments to a Python list and saves them to a file.
 
-9. **4-inherits_from.py** - A Python function `inherits_from(obj, a_class)` that returns `True` if the object is an instance of a class that inherited (directly or indirectly) from the specified class; otherwise `False`.
+9. **8-class_to_json.py**: Python function that returns the dictionary description with simple data structure for JSON serialization of an object.
 
-10. **5-base_geometry.py** - An empty Python class `BaseGeometry`.
+10. **9-student.py**: Python class `Student` that defines a student with public instance attributes.
 
-11. **6-base_geometry.py** - An improved version of `5-base_geometry.py` with a `area()` method that raises an Exception with the message `area() is not implemented`.
+11. **10-student.py**: Updated version of the `Student` class with a new method `to_json()` that retrieves a dictionary representation of a `Student` instance.
 
-12. **7-base_geometry.py** - Another improved version of `5-base_geometry.py` with validation of the `value` attribute.
+12. **11-student.py**: Updated version of the `Student` class with a new method `reload_from_json()` that replaces all attributes of the `Student` instance.
 
-13. **8-rectangle.py** - A Python class `Rectangle` that inherits from `BaseGeometry`.
+13. **12-pascal_triangle.py**: Python function that returns a list of lists representing the Pascal's triangle of `n`.
 
-14. **9-rectangle.py** - An improved version of `8-rectangle.py` with width and height validation.
+14. **100-append_after.py**: Python function that inserts a line of text to a file after each line containing a specific string.
+
+15. **101-stats.py**: Python script that reads `stdin` line by line and computes metrics such as total size, status code counts, and more.
+
+Feel free to explore these scripts for learning purposes or practical use cases in Python programming.
