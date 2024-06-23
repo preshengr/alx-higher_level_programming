@@ -1,0 +1,5 @@
+#!/bin/bash
+git add .
+git commit -m 'Contents updated for file'
+git push
+git pull
